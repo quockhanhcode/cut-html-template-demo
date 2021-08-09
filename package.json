@@ -1,0 +1,14 @@
+{
+  "name": "evondev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass vendor/style.scss vendor/style.css --watch"
+  },
+  "author": "khanh",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
